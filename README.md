@@ -1,1 +1,13 @@
 # CS300
+Karina Aronov
+
+- What was the problem you were solving in the projects for this course?
+  In these projects, the issue being addressed was creating a productive system for organizing and retrieving course data, such as course IDs, names, and prerequisites. The system has to be able to perform tasks including pulling in course data from a file, listing courses, and getting in-depth details about individual courses.
+- How did you approach the problem? Consider why data structures are important to understand.
+  This subject was handled by applying and analyzing three distinct data structures: binary search trees (BSTs), hash tables, and vectors. With different levels of complexity and efficiency, each data structure was utilized to load, store, and maintain course information. It was essential to learn about different data structures in order to choose the best one for the job, taking into account factors like sorted order maintenance and effective data retrieval.
+- How did you overcome any roadblocks you encountered while going through the activities or project?
+  To verify that user selections and file loading processes were correct, regular debugging statements were used. It was necessary to select the best data structure for a given task by examining the time complexity of various operations. In order to validate file parsing logic and guarantee data integrity during loading and retrieval activities, among other things, the projects involved iterative testing and refinement.
+- How has your work on this project expanded your approach to designing software and developing programs?
+  Working on these projects expanded my perspective on software design by showing the significance of choosing suitable data structures that comply with particular needs. Selecting data structures that can perform the necessary operations as efficiently as possible. Taking into account how the system would manage growing data quantities. Ensuring that the code is flexible and well-organized, which promotes updating and maintenance.
+- How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+  The work I have done on these projects evolved the way I write programs by helping me write readable and thoroughly explained code that will help with future maintenance and understanding by others who may read it. Dividing the code into manageable and scalable functions that have specific capabilities and creating a system that can be easily modified to allow new features or data structures without requiring significant redesigns. 
